@@ -1,0 +1,14 @@
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\bin\Debug\netcoreapp3.1\code.exe
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\bin\Debug\netcoreapp3.1\code.deps.json
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\bin\Debug\netcoreapp3.1\code.runtimeconfig.json
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\bin\Debug\netcoreapp3.1\code.runtimeconfig.dev.json
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\bin\Debug\netcoreapp3.1\code.dll
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\bin\Debug\netcoreapp3.1\code.pdb
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.csproj.AssemblyReference.cache
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.AssemblyInfoInputs.cache
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.AssemblyInfo.cs
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.csproj.CoreCompileInputs.cache
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.dll
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.pdb
+C:\Users\Student.PCSTUDENT0049\Desktop\C# & analyse\Exercice 4 - Exercice de Concaténation - C# & analyse\code\obj\Debug\netcoreapp3.1\code.genruntimeconfig.cache
