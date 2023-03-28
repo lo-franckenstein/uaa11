@@ -1,0 +1,4 @@
+H:\uaa11\Tableaux\applicationTableau\obj\Debug\netcoreapp3.1\applicationTableau.csprojAssemblyReference.cache
+H:\uaa11\Tableaux\applicationTableau\obj\Debug\netcoreapp3.1\applicationTableau.AssemblyInfoInputs.cache
+H:\uaa11\Tableaux\applicationTableau\obj\Debug\netcoreapp3.1\applicationTableau.AssemblyInfo.cs
+H:\uaa11\Tableaux\applicationTableau\obj\Debug\netcoreapp3.1\applicationTableau.csproj.CoreCompileInputs.cache

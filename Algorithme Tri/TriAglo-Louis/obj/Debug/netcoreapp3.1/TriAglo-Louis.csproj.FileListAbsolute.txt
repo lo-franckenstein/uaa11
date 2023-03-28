@@ -1,0 +1,14 @@
+H:\uaa11\Algorithme Tri\TriAglo-Louis\bin\Debug\netcoreapp3.1\TriAglo-Louis.exe
+H:\uaa11\Algorithme Tri\TriAglo-Louis\bin\Debug\netcoreapp3.1\TriAglo-Louis.deps.json
+H:\uaa11\Algorithme Tri\TriAglo-Louis\bin\Debug\netcoreapp3.1\TriAglo-Louis.runtimeconfig.json
+H:\uaa11\Algorithme Tri\TriAglo-Louis\bin\Debug\netcoreapp3.1\TriAglo-Louis.runtimeconfig.dev.json
+H:\uaa11\Algorithme Tri\TriAglo-Louis\bin\Debug\netcoreapp3.1\TriAglo-Louis.dll
+H:\uaa11\Algorithme Tri\TriAglo-Louis\bin\Debug\netcoreapp3.1\TriAglo-Louis.pdb
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.csproj.AssemblyReference.cache
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.GeneratedMSBuildEditorConfig.editorconfig
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.AssemblyInfoInputs.cache
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.AssemblyInfo.cs
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.csproj.CoreCompileInputs.cache
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.dll
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.pdb
+H:\uaa11\Algorithme Tri\TriAglo-Louis\obj\Debug\netcoreapp3.1\TriAglo-Louis.genruntimeconfig.cache

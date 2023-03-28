@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24-11" text="&#34;MatrMul&#34;" comment="" color="ffffff" type="program" style="nice">
+	<children>
+		<alternative text="&#34;(matrice1.GetLength(0) == matrice2.GetLength(1) &amp;&amp; matrice1.GetLength(1) == matrice2.GetLength(0))&#34;" comment="" color="ffffff">
+			<qTrue>
+				<instruction text="&#34;verif = true&#34;,&#34;rows = matrice1.GetLength(0)&#34;,&#34;column = matrice2.GetLength(1)&#34;,&#34;matricePropre = new int[rows, column]&#34;" comment="" color="ffffff" rotated="0"></instruction>
+				<for text="&#34;pour a &#60;- 0 à rows - 1&#34;" comment="" counterVar="a" startValue="0" endValue="rows - 1" stepConst="1" style="COUNTER" color="ffffff">
+					<qFor>
+						<for text="&#34;pour b &#60;- 0 à column - 1&#34;" comment="" counterVar="b" startValue="0" endValue="column - 1" stepConst="1" style="COUNTER" color="ffffff">
+							<qFor>
+								<instruction text="&#34;matricePropre[a, b] = 0&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+								<for text="&#34;pour j &#60;- 0 à rows - 1&#34;" comment="" counterVar="j" startValue="0" endValue="rows - 1" stepConst="1" style="COUNTER" color="ffffff">
+									<qFor>
+										<instruction text="&#34;matricePropre(a, b) = matricePropre[a, b] + matrice1[a, j] * matrice2[j, b]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+									</qFor>
+								</for>
+							</qFor>
+						</for>
+					</qFor>
+				</for>
+			</qTrue>
+			<qFalse>
+				<instruction text="&#34;verif = false&#34;" comment="" color="ffffff" rotated="0"></instruction>
+			</qFalse>
+		</alternative>
+	</children>
+</root>

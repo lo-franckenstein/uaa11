@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TriAglo-Louis/1.0.0": {
+        "runtime": {
+          "TriAglo-Louis.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TriAglo-Louis/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

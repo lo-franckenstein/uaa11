@@ -1,0 +1,14 @@
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\bin\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.exe
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\bin\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.deps.json
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\bin\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.runtimeconfig.json
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\bin\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.runtimeconfig.dev.json
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\bin\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.dll
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\bin\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.pdb
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.csproj.AssemblyReference.cache
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.GeneratedMSBuildEditorConfig.editorconfig
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.AssemblyInfoInputs.cache
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.AssemblyInfo.cs
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.csproj.CoreCompileInputs.cache
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.dll
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.pdb
+H:\uaa11\Matrices\Code\5Ti_OpérationMatrice_FranckenLouis\obj\Debug\netcoreapp3.1\5Ti_OpérationMatrice_FranckenLouis.genruntimeconfig.cache
