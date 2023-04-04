@@ -8,10 +8,11 @@ namespace _5Ti_OpérationMatrice_FranckenLouis
     {
 
         /// <summary>
-        /// 
+        /// Ce morceau de programme permet de vérifier les entrées de l'utilisateur et de s'assurer que tout est de type int.
+        /// La question doit être écrite correctement et sous string
         /// </summary>
-        /// <param name="question"></param>
-        /// <param name="n"></param>
+        /// <param name="question">String comportant la question</param>
+        /// <param name="n">Int comportant la réponse vérifié de l'utilisateur</param>
         public void LireReel(string question, out int n)
         {
             string nUser;
@@ -24,13 +25,13 @@ namespace _5Ti_OpérationMatrice_FranckenLouis
             }
         }
 
-
         /// <summary>
-        /// 
+        /// Générer des nombres aléatoires dans un tableau deux dimensions dont le nombre de colonnes et de lignes est défini par l’utilisateur.
+        /// rows & column doivent être des entiers non-vides
         /// </summary>
-        /// <param name="rows"></param>
-        /// <param name="column"></param>
-        /// <param name="matrice"></param>
+        /// <param name="rows">Entier donné par l'utilisateur afin de dire le nombre de lignes</param>
+        /// <param name="column">Entier donné par l'utilisateur afin de dire le nombre de colonnes</param>
+        /// <param name="matrice">Tableauu deux dimensions reprenant les valeurs générés</param>
         public void MatrGen(int rows, int column, out int[,] matrice)
         {
             matrice = new int[rows, column];
@@ -46,10 +47,11 @@ namespace _5Ti_OpérationMatrice_FranckenLouis
 
 
         /// <summary>
-        /// 
+        /// Créer un tableau visuel reprenant toutes les valeurs de la matrice.
+        /// matrice doit être remplie d'entiers entre 0 et 20
         /// </summary>
-        /// <param name="matrice"></param>
-        /// <param name="tableau"></param>
+        /// <param name="matrice">Tableau de deux dimensions</param>
+        /// <param name="tableau">String reprenant toutes les valeurs de la matrice</param>
         public void MatrCon(int[,] matrice, out string tableau)
         {
             int rows;
@@ -81,12 +83,13 @@ namespace _5Ti_OpérationMatrice_FranckenLouis
 
 
         /// <summary>
-        /// 
+        /// Faire une vérfication si l'opération est possible, si oui, effectuer une addition entre deux matrices
+        /// Chaque cellules des matrices 1 et 2 doivent être non-vides
         /// </summary>
-        /// <param name="matrice1"></param>
-        /// <param name="matrice2"></param>
-        /// <param name="matricePropre"></param>
-        /// <param name="verif"></param>
+        /// <param name="matrice1">Matrice qui servira au premier terme de l'addition</param>
+        /// <param name="matrice2">Matrice qui servira au deuxième terme de l'addition</param>
+        /// <param name="matricePropre">Matrice qui servira à la somme de l'addition</param>
+        /// <param name="verif">Booléen qui servira à dire si le calcul est possible</param>
         public void MatrAdd(int[,] matrice1, int[,] matrice2, out int[,] matricePropre, out bool verif)
         {
             int rows;
@@ -116,12 +119,13 @@ namespace _5Ti_OpérationMatrice_FranckenLouis
 
 
         /// <summary>
-        /// 
+        /// Faire une vérification si l'opération est possible, si oui, une multiplication entre deux matrices
+        /// Les cellules des matrices 1 et 2 doivent être non-vides.
         /// </summary>
-        /// <param name="matrice1"></param>
-        /// <param name="matrice2"></param>
-        /// <param name="matricePropre"></param>
-        /// <param name="verif"></param>
+        /// <param name="matrice1">Matrice qui servira au premier facteur de la multiplication</param>
+        /// <param name="matrice2">Matrice qui servira au deuxième facteur de la multiplication</param>
+        /// <param name="matricePropre">Matrice qui servira au produit de la multiplication</param>
+        /// <param name="verif">Booléen qui servira à dire si le calcul est possible</param>
         public void MatrMul(int[,] matrice1, int[,] matrice2, out int[,] matricePropre, out bool verif)
         {
             int rows;
