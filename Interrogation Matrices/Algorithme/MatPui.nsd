@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24-11" text="&#34;MatPui()&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;puissance = new string&#34;,&#34;rows = matrice.GetLength(0)&#34;,&#34;exposant = n&#34;,&#34;degré = 0&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<for text="&#34;pour i &#60;- 0 à rows&#34;" comment="&#34;&#34;" counterVar="i" startValue="0" endValue="rows" stepConst="1" style="COUNTER" color="ffffff">
+			<qFor>
+				<instruction text="&#34;puissance = matrice[rows, i] + &#34;&#34;a^&#34;&#34; + exposant + &#34;&#34;b^&#34;&#34; + degré&#34;,&#34;degré++&#34;,&#34;exposant--&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+			</qFor>
+		</for>
+	</children>
+</root>

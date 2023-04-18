@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24-11" text="&#34;MatPas()&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;matrice = new int[n+1, n+1]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<for text="&#34;pour i &#60;- 0 à n &#34;,&#34;// Je fais cela afin de simplifier le raisonnement après (Pour les calculs)&#34;" comment="&#34;&#34;" counterVar="i" startValue="0" endValue="n  // Je fais cela afin de simplifier le raisonnement après (§FOR§les calculs)" stepConst="1" style="FREETEXT" color="ffffff">
+			<qFor>
+				<for text="&#34;pour j &#60;- 0 à n&#34;" comment="&#34;&#34;" counterVar="j" startValue="0" endValue="n" stepConst="1" style="COUNTER" color="ffffff">
+					<qFor>
+						<instruction text="&#34;matrice[i,j] = 0&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+					</qFor>
+				</for>
+			</qFor>
+		</for>
+		<for text="&#34;pour i &#60;- 0 à n&#34;,&#34;// Je place déja les 1 dans la première colonne&#34;" comment="&#34;&#34;" counterVar="i" startValue="0" endValue="n // Je place déja les 1 dans la première colonne" stepConst="1" style="FREETEXT" color="ffffff">
+			<qFor>
+				<instruction text="&#34;matrice[i, 0] = 1&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+			</qFor>
+		</for>
+		<for text="&#34;pour i &#60;- 0 à n&#34;,&#34;// J'effectue à présent les calculs&#34;" comment="&#34;&#34;" counterVar="i" startValue="0" endValue="n // J'effectue §TO§ présent les calculs" stepConst="1" style="FREETEXT" color="ffffff">
+			<qFor>
+				<for text="&#34;pour j &#60;- 0 à n&#34;" comment="&#34;&#34;" counterVar="j" startValue="0" endValue="n" stepConst="1" style="COUNTER" color="ffffff">
+					<qFor>
+						<instruction text="&#34;matrice[i + 1, j + 1] = matrice[i, j] + matrice[i, j + 1]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+					</qFor>
+				</for>
+			</qFor>
+		</for>
+	</children>
+</root>
