@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24-11" text="&#34;CryptCrypt()&#34;" comment="&#34;&#34;" color="ffffff" type="program" style="nice">
+	<children>
+		<instruction text="&#34;letter = matrice.GetLength(1)&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+		<for text="&#34;pour i &#60;- 1 à letter&#34;" comment="&#34;&#34;" counterVar="i" startValue="1" endValue="letter" stepConst="1" style="COUNTER" color="ffffff">
+			<qFor>
+				<for text="&#34;pour j &#60;- 3 à rows&#34;" comment="&#34;&#34;" counterVar="j" startValue="3" endValue="rows" stepConst="1" style="COUNTER" color="ffffff">
+					<qFor>
+						<for text="&#34;pour k &#60;- 0 à letter - 1&#34;" comment="&#34;&#34;" counterVar="k" startValue="0" endValue="letter - 1" stepConst="1" style="COUNTER" color="ffffff">
+							<qFor>
+								<alternative text="&#34;(matrice[2, k] == i)&#34;" comment="&#34;&#34;" color="ffffff">
+									<qTrue>
+										<alternative text="&#34;(matrice[j, k])&#34;" comment="&#34;&#34;" color="ffffff">
+											<qTrue>
+												<instruction text="&#34;FString = FString + matrice[j, k]&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+											</qTrue>
+											<qFalse>
+												<instruction text="&#34;FString = FString + &#34;&#34; &#34;&#34;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
+											</qFalse>
+										</alternative>
+									</qTrue>
+									<qFalse>
+									</qFalse>
+								</alternative>
+							</qFor>
+						</for>
+					</qFor>
+				</for>
+			</qFor>
+		</for>
+	</children>
+</root>
