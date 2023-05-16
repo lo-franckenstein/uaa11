@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <root xmlns:nsd="http://structorizer.fisch.lu/" version="3.24-11" text="&#34;CryptRed()&#34;" comment="" color="ffffff" type="program" style="nice">
 	<children>
-		<instruction text="&#34;Pletter = phrase.lenght&#34;,&#34;NString = &#34;&#34;&#34;&#34;&#34;" comment="" color="ffffff" rotated="0"></instruction>
+		<instruction text="&#34;Pletter = phrase.lenght&#34;,&#34;NString = &#34;&#34;&#34;&#34;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
 		<for text="&#34;pour i &#60;- 0 à Pletter - 1&#34;" comment="" counterVar="i" startValue="0" endValue="Pletter - 1" stepConst="1" style="COUNTER" color="ffffff">
 			<qFor>
 				<alternative text="&#34;(phrase[i] == &#34;&#34;,&#34;&#34; || phrase[i] == ' ' || phrase[i] == '&#34;&#34;' || phrase[i] == ':')&#34;" comment="&#34;&#34;" color="ffffff">
 					<qTrue>
-						<instruction text="" comment="" color="ffffff" rotated="0"></instruction>
+						<instruction text="&#34;&#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
 					</qTrue>
 					<qFalse>
-						<instruction text="&#34;NString = NString + phrase[i] &#34;" comment="" color="ffffff" rotated="0"></instruction>
+						<instruction text="&#34;NString = NString + phrase[i] &#34;" comment="&#34;&#34;" color="ffffff" rotated="0"></instruction>
 					</qFalse>
 				</alternative>
 			</qFor>
