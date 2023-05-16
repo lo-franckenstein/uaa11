@@ -3,3 +3,8 @@ H:\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreap
 H:\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.AssemblyInfoInputs.cache
 H:\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.AssemblyInfo.cs
 H:\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.csproj.CoreCompileInputs.cache
+C:\Users\22015\OneDrive\Documents\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.csproj.AssemblyReference.cache
+C:\Users\22015\OneDrive\Documents\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22015\OneDrive\Documents\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.AssemblyInfoInputs.cache
+C:\Users\22015\OneDrive\Documents\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.AssemblyInfo.cs
+C:\Users\22015\OneDrive\Documents\uaa11\Cryptage par transposition\Code\ApplicationCryptage\obj\Debug\netcoreapp3.1\ApplicationCryptage.csproj.CoreCompileInputs.cache

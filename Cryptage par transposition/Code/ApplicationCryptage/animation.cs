@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.Threading;
 
 namespace ApplicationCryptage
 {
@@ -15,28 +16,24 @@ namespace ApplicationCryptage
             Console.WriteLine("      *@@@@@@@@@@        @@@@@@@@@@%                        ");
             Console.WriteLine("      @@@@@@@@@            @@@@@@@@@                        ");
             Console.WriteLine("     @@@@@@@@@              @@@@@@@@@                       ");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
-            Console.WriteLine("");
+            Console.WriteLine("     @@@@@@@@@              @@@@@@@@@                       ");
+            Console.WriteLine("     @@@@@@@@@              @@@@@@@@     @@@@@@@@@@@%       ");
+            Console.WriteLine("     @@@@@@@@@              @@@@@@   @@@@@@@@@@@@@@@@@@@    ");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@@@     ,@@@  ");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@@@       &@@@%");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@  @@@@@@@@@@@@@@@@     @@@@@@");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@@@@@@@");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   @@@@@@@@@@@@@@@@@@@@@@@@@@@");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@    @@@@@@@@@@@@@@@@@@@@@@@@@,");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@@@@   .@@@@@@  @@@@@@@@@@@@@@@@@@  ");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@@@.   @@@@@@.  @@@@@@@@@@@@@@@@@@    ");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@@@@   *@@@@@@  @@@@@@@@@@@@@@@@@        ");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@@@.   @@@@@@.  @@@@@@                     ");
+            Console.WriteLine("@@@@@@@@@@@@@@@@@@   .@@@@@@  @@@@@@@@                      ");
+            Console.WriteLine(",,,,,,,,,,,,,,,.   @@@@@@.  @@@@@                           ");
+            Console.WriteLine("                   @@@@  @@@@                               ");
+            Console.WriteLine("                   @@@@@@@@@@                               ");
+            Thread.Sleep(5000);
 
 
 

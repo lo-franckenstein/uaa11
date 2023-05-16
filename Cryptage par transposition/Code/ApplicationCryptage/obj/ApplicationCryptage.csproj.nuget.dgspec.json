@@ -1,23 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "H:\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj": {}
+    "C:\\Users\\22015\\OneDrive\\Documents\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj": {}
   },
   "projects": {
-    "H:\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj": {
+    "C:\\Users\\22015\\OneDrive\\Documents\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj",
+        "projectUniqueName": "C:\\Users\\22015\\OneDrive\\Documents\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj",
         "projectName": "ApplicationCryptage",
-        "projectPath": "H:\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj",
-        "packagesPath": "C:\\Users\\220153.asty-moulin\\.nuget\\packages\\",
-        "outputPath": "H:\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\obj\\",
+        "projectPath": "C:\\Users\\22015\\OneDrive\\Documents\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\ApplicationCryptage.csproj",
+        "packagesPath": "C:\\Users\\22015\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\22015\\OneDrive\\Documents\\uaa11\\Cryptage par transposition\\Code\\ApplicationCryptage\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\220153.asty-moulin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\22015\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -48,7 +49,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -57,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.409\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
         }
       }
     }
