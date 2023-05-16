@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ApplicationCryptage/1.0.0": {
+        "runtime": {
+          "ApplicationCryptage.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ApplicationCryptage/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
