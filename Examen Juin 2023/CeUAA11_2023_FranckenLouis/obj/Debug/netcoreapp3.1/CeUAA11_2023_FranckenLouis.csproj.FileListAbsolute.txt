@@ -1,0 +1,14 @@
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\bin\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.exe
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\bin\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.deps.json
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\bin\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.runtimeconfig.json
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\bin\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.runtimeconfig.dev.json
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\bin\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.dll
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\bin\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.pdb
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.csproj.AssemblyReference.cache
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.AssemblyInfoInputs.cache
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.AssemblyInfo.cs
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.csproj.CoreCompileInputs.cache
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.dll
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.pdb
+C:\Users\22015\OneDrive\Documents\uaa11\Examen Juin 2023\CeUAA11_2023_FranckenLouis\obj\Debug\netcoreapp3.1\CeUAA11_2023_FranckenLouis.genruntimeconfig.cache
